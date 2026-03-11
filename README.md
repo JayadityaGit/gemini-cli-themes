@@ -1,4 +1,4 @@
-# Gemini CLI Themes Extension
+# Gemini CLI Themes Extension :art:
 
 This extension provides a collection of beautiful, high-contrast themes for the Gemini CLI, allowing you to customize your terminal experience.
 
@@ -9,6 +9,10 @@ To install this extension, run the following command in your terminal:
 ```bash
 gemini extensions install https://github.com/jackwotherspoon/gemini-cli-themes
 ```
+
+## Usage
+
+Once the extension is installed you can run `/theme` within Gemini CLI to select one of the custom themes.
 
 ## Available Themes
 
