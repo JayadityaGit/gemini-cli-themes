@@ -56,6 +56,13 @@ A classic, vibrant, and high-contrast dark theme.
 * **Accents:** $\color{#f92672}{\blacksquare}$ `#f92672` (Accent), $\color{#66d9ef}{\blacksquare}$ `#66d9ef` (Link)
 * **Status:** $\color{#a6e22e}{\blacksquare}$ `#a6e22e` (Success), $\color{#e6db74}{\blacksquare}$ `#e6db74` (Warning), $\color{#f92672}{\blacksquare}$ `#f92672` (Error)
 
+### 6. Nanobanana
+A bright, banana-inspired theme with yellowish tones.
+* **Background:** $\color{#FFFACD}{\blacksquare}$ `#FFFACD` (Primary)
+* **Text:** $\color{#BDB76B}{\blacksquare}$ `#BDB76B` (Primary), $\color{#BDB76B}{\blacksquare}$ `#BDB76B` (Secondary)
+* **Accents:** $\color{#FFD700}{\blacksquare}$ `#FFD700` (Accent), $\color{#DAA520}{\blacksquare}$ `#DAA520` (Link)
+* **Status:** $\color{#ADFF2F}{\blacksquare}$ `#ADFF2F` (Success), $\color{#FFFF00}{\blacksquare}$ `#FFFF00` (Warning), $\color{#FF4500}{\blacksquare}$ `#FF4500` (Error)
+
 ## Structure
 
 The themes are defined in the `gemini-extension.json` file. Each theme specifies colors for:
