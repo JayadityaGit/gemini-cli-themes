@@ -157,6 +157,37 @@
         "symbol": "#ae81ff",
         "gradient": ["#f92672", "#fd971f", "#e6db74"]
       }
+    },
+    {
+      "name": "Nanobanana",
+      "type": "custom",
+      "background": {
+        "primary": "#FFFACD",
+        "diff": {
+          "added": "#A89D00",
+          "removed": "#A85700"
+        }
+      },
+      "text": {
+        "primary": "#BDB76B",
+        "secondary": "#BDB76B",
+        "link": "#DAA520",
+        "accent": "#FFD700"
+      },
+      "border": {
+        "default": "#BDB76B",
+        "focused": "#DAA520"
+      },
+      "status": {
+        "success": "#ADFF2F",
+        "warning": "#FFFF00",
+        "error": "#FF4500"
+      },
+      "ui": {
+        "comment": "#F0E68C",
+        "symbol": "#FFFFE0",
+        "gradient": ["#FFFFE0", "#FFD700", "#DAA520"]
+      }
     }
   ]
 }
